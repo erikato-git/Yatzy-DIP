@@ -1,3 +1,0 @@
-INDEX VERSION 1.131+C:\Users\erikk\Desktop\DIP (2020)\06-07.Yatzy\.metadata\.plugins\org.eclipse.jdt.core
-3423253026.index
-3666889756.index
